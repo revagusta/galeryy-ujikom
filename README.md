@@ -47,6 +47,7 @@ Untuk Fitur masih minim:
 ## Instalasi
 1. Clone Repository
 ```
+https://github.com/revagusta/galeryy-ujikom/tree/main
 ```
 
 2. Install Composer
@@ -78,7 +79,7 @@ php artisan key:generate
 
 6. Jalankan migrate dan seeder
 ```
-php artisan migrate --seed
+php artisan migrate 
 ```
 
 7. Buat Storage Link
