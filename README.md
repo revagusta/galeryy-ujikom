@@ -2,7 +2,7 @@
 
 ## Tentang Website
 
-Aplikasi Web Galery Ujikom yang dibuat sederhana
+Aplikasi web ujikom galeri sederhana dengan framework Laravel
 
 ## Fitur
 
@@ -10,30 +10,32 @@ Untuk Fitur masih minim:
 - sign up
 - log in
 - log out
-- multiuser
 - add poto
 - add album
-- edit profile
 - add comment
-- edit comment
-- delete comment
-- like
-- dll
+- delete poto
+- delete album
 
 ## Tampilan Website
+![Screenshot (13)](https://github.com/revagusta/galeryy-ujikom/assets/141296050/a1e997ea-b918-45cb-929e-af5db120c3a9)
 
+![Screenshot (14)](https://github.com/revagusta/galeryy-ujikom/assets/141296050/b91e9e1e-5d26-4d31-a085-ea7b29ca73a4)
 
+![Screenshot (15)](https://github.com/revagusta/galeryy-ujikom/assets/141296050/a08b880b-9518-4cde-b874-9989704ecba9)
 
 
 ## ERD, Relasi dan UML Use Case
 
 - ERD
+![ERD](https://github.com/revagusta/galeryy-ujikom/assets/141296050/948873be-69a3-45d9-b9b8-8b57e83ca9db)
 
 
 - Relasi
+![Relasi](https://github.com/revagusta/galeryy-ujikom/assets/141296050/862602e8-57b9-4cb1-9c9c-6c3e972c0e74)
 
 
 - UML
+![Use Case](https://github.com/revagusta/galeryy-ujikom/assets/141296050/ada4c331-60d4-4cb6-a2dc-c826bb6abf7d)
 
 
 ## Prasyaratan
